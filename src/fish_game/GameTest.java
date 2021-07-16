@@ -36,15 +36,5 @@ class GameTest {
 		String esperado = "Restaram 2 peixes do tipo A e 0 do tipo B.\n" + "A sua pontuação em número de iterações foi 2.\n";
 		assertEquals(esperado, retorno);
 	}
-	
-
-
-
-
-
-//	TESTE FUNCIONAL (G1)
-
-
-
 
 }
